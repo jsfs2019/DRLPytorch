@@ -1,4 +1,4 @@
-﻿# 问题http://mnemstudio.org/path-finding-q-learning-tutorial.htm的Q学习方法实现
+﻿# 问题 http://web.archive.org/web/20210301135152/http://mnemstudio.org/path-finding-q-learning-tutorial.htm 的Q学习方法实现
 import numpy as np
 import random
 import matplotlib.pyplot as plt
